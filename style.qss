@@ -1,0 +1,55 @@
+QDialog#mainContent {
+    background: #f5f7fb;
+}
+
+QWidget#appHeader {
+    background: white;
+    border: 1px solid #dfe5ec;
+    border-radius: 10px;
+}
+
+QLabel#appTitle {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1f2937;
+}
+
+QLabel#appSubtitle {
+    font-size: 13px;
+    color: #6b7280;
+}
+
+QLabel#userLabel {
+    color: #4b5563;
+    font-weight: 600;
+}
+
+QPushButton#logoutButton {
+    background: #dc2626;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 7px 16px;
+    font-weight: 600;
+}
+
+QPushButton#logoutButton:hover {
+    background: #b91c1c;
+}
+
+QTabWidget::pane {
+    border: 1px solid #dfe5ec;
+    background: white;
+    border-radius: 8px;
+}
+
+QTabBar::tab {
+    background: #e5e7eb;
+    padding: 10px 18px;
+    margin-right: 2px;
+}
+
+QTabBar::tab:selected {
+    background: white;
+    font-weight: 700;
+}

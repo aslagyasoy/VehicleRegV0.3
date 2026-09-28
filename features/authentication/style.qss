@@ -1,0 +1,156 @@
+/* =========================================
+   AUTHENTICATION WINDOW
+   ========================================= */
+
+QDialog#authenticationView {
+    background-color: #f5f7fb;
+}
+
+
+/* =========================================
+   LABELS
+   ========================================= */
+
+QDialog#authenticationView QLabel {
+    color: #374151;
+    font-size: 13px;
+}
+
+QDialog#authenticationView QLabel#heading {
+    color: #111827;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+QDialog#authenticationView QLabel#subtitle {
+    color: #6b7280;
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+
+/* =========================================
+   INPUT FIELDS
+   ========================================= */
+
+QDialog#authenticationView QLineEdit {
+    background-color: #ffffff;
+    color: #111827;
+
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+
+    padding: 8px;
+    min-height: 20px;
+
+    font-size: 13px;
+}
+
+QDialog#authenticationView QLineEdit:hover {
+    border: 1px solid #94a3b8;
+}
+
+QDialog#authenticationView QLineEdit:focus {
+    border: 1px solid #2563eb;
+}
+
+
+/* =========================================
+   PRIMARY BUTTON
+   ========================================= */
+
+QDialog#authenticationView QPushButton#primaryButton {
+    background-color: #2563eb;
+    color: #ffffff;
+
+    border: none;
+    border-radius: 6px;
+
+    padding: 9px 14px;
+    min-height: 18px;
+
+    font-size: 13px;
+    font-weight: 600;
+}
+
+QDialog#authenticationView QPushButton#primaryButton:hover {
+    background-color: #1d4ed8;
+}
+
+QDialog#authenticationView QPushButton#primaryButton:pressed {
+    background-color: #1e40af;
+}
+
+
+/* =========================================
+   SECONDARY BUTTON
+   ========================================= */
+
+QDialog#authenticationView QPushButton#secondaryButton {
+    background-color: #e5e7eb;
+    color: #111827;
+
+    border: none;
+    border-radius: 6px;
+
+    padding: 9px 14px;
+    min-height: 18px;
+
+    font-size: 13px;
+    font-weight: 500;
+}
+
+QDialog#authenticationView QPushButton#secondaryButton:hover {
+    background-color: #d1d5db;
+}
+
+QDialog#authenticationView QPushButton#secondaryButton:pressed {
+    background-color: #cbd5e1;
+}
+
+
+/* =========================================
+   STACKED PAGES
+   ========================================= */
+
+QDialog#authenticationView QStackedWidget {
+    background-color: transparent;
+}
+
+
+/* =========================================
+   MESSAGE BOXES
+   ========================================= */
+
+QMessageBox {
+    background-color: #ffffff;
+}
+
+QMessageBox QLabel {
+    color: #111827;
+    background-color: transparent;
+    font-size: 13px;
+}
+
+QMessageBox QPushButton {
+    background-color: #2563eb;
+    color: #ffffff;
+
+    border: none;
+    border-radius: 6px;
+
+    padding: 7px 18px;
+    min-width: 70px;
+    min-height: 20px;
+
+    font-size: 13px;
+    font-weight: 600;
+}
+
+QMessageBox QPushButton:hover {
+    background-color: #1d4ed8;
+}
+
+QMessageBox QPushButton:pressed {
+    background-color: #1e40af;
+}
