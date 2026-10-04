@@ -1,4 +1,4 @@
-<img width="426" height="446" alt="Screenshot 2026-10-04 180319" src="https://github.com/user-attachments/assets/c049cd07-a55e-436f-a01c-6839bc16e274" /># Vehicle Registration System
+# Vehicle Registration System
 
 **Project Version:** VehicleRegV0.3  
 **Author:** Nikko Lim  
