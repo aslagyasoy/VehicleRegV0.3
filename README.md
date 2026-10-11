@@ -541,7 +541,7 @@ The following screenshots demonstrate the important interfaces and functions of 
 
 ### Screenshot 3 - Vehicle Registration Dashboard
 
-![Vehicle Registration Dashboard](screenshots/vehicle-dashboard.png)
+<img width="1200" height="835" alt="Screenshot 2026-10-11 230539" src="https://github.com/user-attachments/assets/0c0cebbc-8836-461e-bd02-e5656ad1de83" />
 
 **Description:** The main application dashboard displaying vehicle registration records and the controls available to authenticated users.
 
@@ -549,7 +549,7 @@ The updated dashboard also includes vehicle statistics, a vehicle-type graph, a 
 
 ### Screenshot 4 - Adding a Vehicle
 
-![Adding a Vehicle](screenshots/add-vehicle.png)
+<img width="1197" height="829" alt="Screenshot 2026-10-11 230658" src="https://github.com/user-attachments/assets/74d4fc6a-eee8-4397-aa60-8142f6668a87" />
 
 **Description:** The vehicle registration form used to enter the information required for a new vehicle record.
 
@@ -557,7 +557,7 @@ In the updated application, this form is displayed in a separate popup instead o
 
 ### Screenshot 5 - Search and Update
 
-![Search and Update](screenshots/search-update.png)
+<img width="1190" height="388" alt="Screenshot 2026-10-11 230737" src="https://github.com/user-attachments/assets/77b4c054-d9f1-4a0c-8a20-6860805c837d" />
 
 **Description:** The vehicle search and update workflow. Users can locate an existing record, select it, and modify its saved information.
 
