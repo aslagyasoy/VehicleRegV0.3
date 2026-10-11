@@ -529,13 +529,13 @@ The following screenshots demonstrate the important interfaces and functions of 
 
 ### Screenshot 1 - Login Screen
 
-![Login Screen](screenshots/login.png)
+<img width="427" height="445" alt="Screenshot 2026-10-11 230849" src="https://github.com/user-attachments/assets/cbc1572b-e50a-487b-b8cb-3e211b8d39aa" />
 
 **Description:** The login screen where registered users enter their username and password to access the Vehicle Registration System. It also provides a Create an Account option for new users.
 
 ### Screenshot 2 - User Registration
 
-![User Registration](screenshots/registration.png)
+<img width="423" height="445" alt="Screenshot 2026-10-11 230912" src="https://github.com/user-attachments/assets/ad4e8294-42e0-4071-b7dc-bf267530dba7" />
 
 **Description:** The user registration screen where new users create an account by entering a username, password, and password confirmation.
 
