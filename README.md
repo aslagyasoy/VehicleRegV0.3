@@ -451,31 +451,31 @@ VehicleRegV0.3/
 
 ### Screenshot 1 - Login Screen
 
-![Login Screen](screenshots/login.png)
+<img width="426" height="446" alt="Screenshot 2026-10-04 180319" src="https://github.com/user-attachments/assets/507ec9e9-53a3-41ab-b9df-495474bd6680" />
 
 **Description:** The Vehicle Registration System login screen where registered users enter their username and password. It also provides a **Create an Account** option for new users.
 
 ### Screenshot 2 - User Registration
 
-![User Registration](screenshots/registration.png)
+<img width="419" height="445" alt="Screenshot 2026-10-04 182612" src="https://github.com/user-attachments/assets/1641be70-0358-44ad-9dda-fcda23405f51" />
 
 **Description:** The user registration screen where a new user creates an account by entering a username, password, and password confirmation. The form shows the minimum username and password requirements and provides a **Back to Login** option.
 
 ### Screenshot 3 - Vehicle Registration Dashboard
 
-![Vehicle Registration Dashboard](screenshots/vehicle-dashboard.png)
+<img width="1205" height="834" alt="Screenshot 2026-10-04 182703" src="https://github.com/user-attachments/assets/3de3f9e1-009a-4869-bb59-6e9322b96869" />
 
 **Description:** The main Vehicle Registration System dashboard after a successful login. It contains the complete vehicle registration form, registration and expiry dates, status selection, Add Vehicle, Clear, and Delete Selected controls, a vehicle search field, and the table of saved vehicle registration records. The header also displays the currently logged-in user and provides a Log Out button.
 
 ### Screenshot 4 - Adding a Vehicle
 
-![Adding a Vehicle](screenshots/add-vehicle.png)
+<img width="1183" height="517" alt="Screenshot 2026-10-04 182752" src="https://github.com/user-attachments/assets/232da2aa-d714-42ec-8523-4bac20eae000" />
 
 **Description:** The vehicle registration form used to enter a new vehicle record. It includes fields for plate number, owner name, vehicle type, brand, model, year, color, engine number, chassis number, registration date, expiry date, and status. The **Add Vehicle** button saves the completed record, **Clear** resets the form, and **Delete Selected** removes a selected existing record.
 
 ### Screenshot 5 - Search and Update
 
-![Search and Update](screenshots/search-update.png)
+<img width="1194" height="703" alt="Screenshot 2026-10-04 182829" src="https://github.com/user-attachments/assets/86d59c97-d841-4e36-9acc-274069617a29" />
 
 **Description:** The search and update workflow of the Vehicle Registration System. The search field filters the vehicle table using the entered value. After a matching record is selected, its saved information is loaded into the form and the **Add Vehicle** button changes to **Update Vehicle**, allowing the user to edit and save the existing registration record.
 
